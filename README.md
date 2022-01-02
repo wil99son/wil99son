@@ -1,4 +1,4 @@
-## Hi there i'm Wilson Henrique👋
+## Hi there I'm Wilson Henrique👋
 
 - 🔭 Current work with Industrial Automation;
 - 🌱 studying development full-stack;
